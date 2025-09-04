@@ -1,4 +1,6 @@
-title: Shaw Talebl
-#logo: /assets/img/headshot_circle-png
-#description: text below image show_down loads: true
-thene: jekyll-theme-nininalI
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
